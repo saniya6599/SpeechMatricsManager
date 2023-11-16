@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gz3lAsTrrY8asVAJRa+fjEVVTMX72UBzIUA4IH81cFG6rQamEPNb9kJ6I8+AFNfFwIPyOJhjnuQw6zTRUyDSyQ==",
+  "success": true,
+  "projectFilePath": "D:\\SpeechMatrix\\ToRoss\\SpeechMatrixManager\\SpeechMatrixManager\\SpeechMatrixManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saniyat.sw\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\saniyat.sw\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\saniyat.sw\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\saniyat.sw\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\saniyat.sw\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\saniyat.sw\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\saniyat.sw\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\saniyat.sw\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
